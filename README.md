@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Omar Yassin</h1>
 <h3 align="center">A passionate .Net Full-Stack developer with 4 years experience</h3>
-<img src="https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg"  alt="coding" width="400">
+<img src="https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg"  alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omaryassin22&label=Profile%20views&color=0e75b6&style=flat" alt="omaryassin22" /> </p>
 
 - I Was a Team leader of [E-Learning](https://e-learning-ebon-three.vercel.app/)
 
 - 🌱I Graduated from BFCAI **2023**
 
-- I Tooke ITI 4-month Scholartship **9/23**
+- I Tooke ITI 4-month Scholarship **9/23**
 
 - 👨‍💻 All of my projects are available at [https://omar-yassin-protofolio.vercel.app/](https://omar-yassin-protofolio.vercel.app/)
 
