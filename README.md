@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Yassin</h1>
 <h3 align="center">A passionate .Net Full-Stack developer with 2 years experience</h3>
-<p align="left"> <img src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" alt="omaryassin22" width='100%' /> </p>
+<p align="left"> <img src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" alt="omaryassin22" width='100%' height='400' /> </p>
 
 - I Was a Team leader of [E-Learning](https://e-learning-ebon-three.vercel.app/)
 
