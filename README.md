@@ -1,13 +1,15 @@
-# Omar Yassin Sleem
+<h1 align="center">Omar Yassin Sleem</h1>
+<h3 align="center">.NET Backend Engineer | ASP.NET Core | Clean Architecture | REST APIs</h3>
 
-.NET Backend Engineer focused on building scalable REST APIs, enterprise CMS platforms, and production-ready backend systems using ASP.NET Core and Clean Architecture.
+---
 
 ## About Me
 
-- 2+ years of experience in .NET backend development
-- Built government and enterprise CMS platforms using Kentico and Umbraco
-- Experienced in REST APIs, authentication, caching, and SQL optimization
-- Passionate about scalable architecture and maintainable backend systems
+.NET Backend Engineer with 2+ years of experience building scalable REST APIs, enterprise CMS platforms, and production-ready backend systems using ASP.NET Core and Clean Architecture.
+
+I worked on government and enterprise platforms using Kentico and Umbraco CMS, focusing on API development, authentication, caching, SQL optimization, and maintainable backend architecture.
+
+---
 
 ## Tech Stack
 
@@ -57,13 +59,16 @@ Production-ready book-selling platform built with ASP.NET Core and React.
 ### Features
 - PayPal payment integration
 - JWT-secured APIs
-- Clean Architecture
 - Server-side order verification
-- Download restriction system
+- Custom PDF protection system
+- Clean Architecture
 - SQL Server backend
 
-### Tech
+### Tech Stack
 ASP.NET Core • React • SQL Server • PayPal
+
+🔗 Repository:
+https://github.com/OmarYassin22/fullstack-ecommerce-app
 
 ---
 
@@ -78,12 +83,15 @@ Scalable REST API following Clean Architecture principles.
 - Layered architecture
 - Performance optimization
 
-### Tech
+### Tech Stack
 ASP.NET Core • EF Core • Redis • SQL Server • xUnit
+
+🔗 Repository:
+https://github.com/OmarYassin22/ecommerce-platform-api
 
 ---
 
-# Current Focus
+## Current Focus
 
 Currently improving my expertise in:
 - Distributed systems
@@ -93,8 +101,13 @@ Currently improving my expertise in:
 
 ---
 
-# Contact
+## Connect With Me
 
-- LinkedIn: your-linkedin
-- GitHub: your-github
-- Email: omar.yassin.sleem@gmail.com
+- LinkedIn:
+  https://www.linkedin.com/in/omar-yassin-sleem
+
+- Portfolio:
+  https://omar-yassin-protofolio.vercel.app/
+
+- Email:
+  omar.yassin.sleem@gmail.com
