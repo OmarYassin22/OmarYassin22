@@ -1,28 +1,100 @@
-<h1 align="center">Hi 👋, I'm Omar Yassin</h1>
-<h3 align="center">A passionate .Net Full-Stack developer with 2 years experience</h3>
-<p align="left"> <img src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" alt="omaryassin22" width='100%' height='600' /> </p>
+# Omar Yassin Sleem
 
-- I Was a Team leader of [E-Learning](https://e-learning-ebon-three.vercel.app/)
+.NET Backend Engineer focused on building scalable REST APIs, enterprise CMS platforms, and production-ready backend systems using ASP.NET Core and Clean Architecture.
 
-- 🌱I Graduated from BFCAI **2023**
+## About Me
 
-- I Tooke ITI 4-month Scholarship **9/23**
+- 2+ years of experience in .NET backend development
+- Built government and enterprise CMS platforms using Kentico and Umbraco
+- Experienced in REST APIs, authentication, caching, and SQL optimization
+- Passionate about scalable architecture and maintainable backend systems
 
-- 👨‍💻 All of my projects are available at [https://omar-yassin-protofolio.vercel.app/](https://omar-yassin-protofolio.vercel.app/)
+## Tech Stack
 
-- 💬 Ask me about **React, .Net**
+### Backend
+- ASP.NET Core
+- Web API
+- Entity Framework Core
+- LINQ
+- Clean Architecture
+- SOLID Principles
 
-- 📫 How to reach me **Omar.Yassin.Sleem@gmail.com**
+### Security
+- JWT Authentication
+- ASP.NET Core Identity
+- RBAC
+- OAuth 2.0
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bK93Hfn_xX9FRnKn_8NZzcxBVk32lAXZ/view?usp=sharing](https://drive.google.com/file/d/1bK93Hfn_xX9FRnKn_8NZzcxBVk32lAXZ/view?usp=sharing)
+### Databases & Caching
+- SQL Server
+- Redis
+- EF Core Migrations
+- Query Optimization
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/omar-yassin-9b71881b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-yassin-9b71881b9/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100015398925269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100015398925269" height="30" width="40" /></a>
-</p>
+### DevOps & Tools
+- Docker
+- Azure DevOps
+- Swagger/OpenAPI
+- Git
+- Postman
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### CMS
+- Kentico 13
+- Experience by Kentico
+- Umbraco 17
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omaryassin22&show_icons=true&locale=en&layout=compact" alt="omaryassin22" /></p>
+### Testing
+- xUnit
+- Unit Testing
+
+---
+
+# Featured Projects
+
+## Full-Stack E-Commerce Platform
+Production-ready book-selling platform built with ASP.NET Core and React.
+
+### Features
+- PayPal payment integration
+- JWT-secured APIs
+- Clean Architecture
+- Server-side order verification
+- Download restriction system
+- SQL Server backend
+
+### Tech
+ASP.NET Core • React • SQL Server • PayPal
+
+---
+
+## E-Commerce REST API
+Scalable REST API following Clean Architecture principles.
+
+### Features
+- JWT Authentication & RBAC
+- Redis caching
+- Stripe integration
+- xUnit testing
+- Layered architecture
+- Performance optimization
+
+### Tech
+ASP.NET Core • EF Core • Redis • SQL Server • xUnit
+
+---
+
+# Current Focus
+
+Currently improving my expertise in:
+- Distributed systems
+- CI/CD pipelines
+- Cloud deployment
+- Scalable backend architecture
+
+---
+
+# Contact
+
+- LinkedIn: your-linkedin
+- GitHub: your-github
+- Email: omar.yassin.sleem@gmail.com
